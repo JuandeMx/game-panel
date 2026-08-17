@@ -1,0 +1,6 @@
+{
+  "name": "Terraria & Game Server Manager",
+  "description": "Panel de control modular y profesional para gestión de servidores de videojuegos (Terraria, Minecraft, etc.) con consola interactiva en tiempo real, métricas de rendimiento, editor de configuración y gestor de mundos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
